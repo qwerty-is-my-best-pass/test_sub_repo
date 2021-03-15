@@ -1,7 +1,7 @@
 import {indexOf as lodashTest} from 'lodash'
 
 function AwesomeComponent(props) {
-  //!это просто комментарий чтобы создать коммит
+  //!это просто комментарий чтобы создать коммит?
   return (
     <span>
         Я работаю!<br/><br/>
